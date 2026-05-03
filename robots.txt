@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mkcho90.github.io/samil-assets/sitemap.xml
